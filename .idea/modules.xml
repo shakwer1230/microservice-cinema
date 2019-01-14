@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice-cinema.iml" filepath="$PROJECT_DIR$/.idea/microservice-cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-cinema-consumer-movie/microservice-cinema-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-cinema-consumer-movie/microservice-cinema-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" filepath="$PROJECT_DIR$/microservice-simple-provider-user/microservice-simple-provider-user.iml" />
     </modules>
   </component>
 </project>
